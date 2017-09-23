@@ -1,1 +1,1 @@
-# ignore*/*.pyc.DS_Store
+# ignore:*.py[cod].DS_Store
